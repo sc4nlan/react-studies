@@ -15,8 +15,7 @@ function Form(){
                 <div>
                     <input type="submit" value="cadastrar"/>
                 </div>
-            </form>
-            
+            </form> 
         </>
     )
 }
