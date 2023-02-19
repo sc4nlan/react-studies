@@ -5,7 +5,7 @@ function Evento(){
         console.log("Ativando primeiro evento");
     }
 
-    function segudundoEvento(){
+    function segundoEvento(){
         console.log("Ativando segundo evento");
     }
 
@@ -13,7 +13,7 @@ function Evento(){
         <>  
             <p>Cique para disparar um evento:</p>
             <Button event={meuEvento} text="Primeiro evento"/>
-            <Button event={segudundoEvento} text="Segundo evento"/>
+            <Button event={segundoEvento} text="Segundo evento"/>
         </>
     )
 }
