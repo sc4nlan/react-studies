@@ -1,3 +1,10 @@
+passos:
+    -configurar router do sidebar
+    -trocar icones com react-icons (instalar npm install react-icons)
+    -componentizar as listas de usuários e projetos
+    -prepapar para receber o backend
+    -criar formulário de add usuário
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
